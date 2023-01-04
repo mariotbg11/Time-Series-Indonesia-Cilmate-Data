@@ -1,4 +1,4 @@
-# Time-Series-Indonesia-Cilmate-Data
+# Time-Series-Indonesia-Climate-Data
 Project 2 | Dicoding : Modul Belajar Pengembangan Machine Learning | Time Series Model Indonesia Climate Data|
 
 Model :
